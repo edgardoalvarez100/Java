@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package software2.patterns.mvc.imp;
 
 import java.math.BigInteger;
@@ -11,10 +7,7 @@ import software2.patterns.mvc.abst.Controlador;
 import software2.patterns.mvc.abst.Evento;
 import software2.patterns.mvc.abst.Vista;
 
-/**
- *
- * @author 200811211872
- */
+
 public class ControladorDosPuntos extends Controlador{
 
     
