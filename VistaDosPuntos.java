@@ -14,7 +14,7 @@ import software2.patterns.mvc.abst.Vista;
 
 public class VistaDosPuntos extends Vista {
 
-    public Vista2Puntos(Modelo m) {
+    public VistaDosPuntos(Modelo m) {
         super(m);
 
     }
