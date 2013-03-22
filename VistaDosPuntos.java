@@ -21,7 +21,7 @@ public class VistaDosPuntos extends Vista {
 
     @Override
     protected void dibujar() {
-        System.out.println("Mostrar datos en consola (2 puntos)");
+        System.out.println("Mostrar datos Dos Puntos");
         Modelo m = this.obtenerModelo();
         Map map = m.obtenerMapa();
         Set<String> keys = map.keySet();
